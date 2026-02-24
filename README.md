@@ -52,6 +52,20 @@ frontend:
 
 After restarting, go to **Settings → General** and pick a NeuMorphix variant from the **Theme** dropdown — or set it per-dashboard in the dashboard settings.
 
+## Screenshots
+
+### neumorphix-dark
+![neumorphix-dark](screenshots/neumorphix-dark.png)
+
+### neumorphix-claude
+![neumorphix-claude](screenshots/neumorphix-claude.png)
+
+### neumorphix-light
+![neumorphix-light](screenshots/neumorphix-light.png)
+
+### neumorphix-dark-inset
+![neumorphix-dark-inset](screenshots/neumorphix-dark-inset.png)
+
 ## Theme variants
 
 - `neumorphix-light` — light raised neumorphic
