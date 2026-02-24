@@ -2,6 +2,5 @@
   "name": "NeuMorphix",
   "render_readme": true,
   "homeassistant": "2023.9.0",
-  "content_in_root": false,
-  "url": "https://github.com/yakidd/NeumorphixHome"
+  "content_in_root": false
 }
