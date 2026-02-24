@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:hacs.xyz)",
+      "WebFetch(domain:raw.githubusercontent.com)"
+    ]
+  }
+}
