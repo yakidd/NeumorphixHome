@@ -54,16 +54,16 @@ After restarting, go to **Settings → General** and pick a NeuMorphix variant f
 
 ## Screenshots
 
-### neumorphix-dark
+### Light
+![neumorphix-light](screenshots/NeuMorphix%20Light.png)
+![neumorphix-light-inset](screenshots/NeuMorphix%20Light%20Inset.png)
+
+### Dark
 ![neumorphix-dark](screenshots/NeuMorphix%20Dark.png)
-
-### neumorphix-claude
-![neumorphix-claude](screenshots/NeuMorphix%20Claude.png)
-
-### neumorphix-dark-inset
 ![neumorphix-dark-inset](screenshots/NeuMorphix%20Dark%20Inset.png)
 
-### neumorphix-claude-inset
+### Claude
+![neumorphix-claude](screenshots/NeuMorphix%20Claude.png)
 ![neumorphix-claude-inset](screenshots/NeuMorphix%20Claude%20Inset.png)
 
 ## Theme variants
